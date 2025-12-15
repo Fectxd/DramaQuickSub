@@ -1,5 +1,5 @@
 <div align=center>
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e4864d24-e61e-4fa3-a958-8dc124d568f3" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/5de6b3c5-e047-4078-8097-99508715beb7" />
 </div>
 
 # DramaQuickSub 字幕编辑器
