@@ -52,7 +52,7 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon='icon.ico'  # 设置exe文件图标
+    icon=r'D:\Edu2da\icon.ico'
 )
 
 coll = COLLECT(
