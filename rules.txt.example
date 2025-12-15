@@ -1,0 +1,20 @@
+请修改后返回srt内容，不需要任何srt以外的内容及回答。
+
+##以下只是例子，而非实际对应的规则，请参照括号理解例子再进行修改##
+
+关于姓名
+箭头后是规范的翻译，如果出现箭头前的情况请修正为箭头后
+林有有Lin You You→Lin Youyou（姓与名分开，二字名做整体分开）
+林一Linyi→Lin Yi（姓与名分开，单字名做整体分开）
+小翠Xiaocui→Cui （没有姓只有名的情况下，不译”小”）
+大金Dajin→Jin （没有姓只有名的情况下，不译”大”）
+明明Mingming→Ming （没有姓只有名的情况下，不译叠词）
+老江 LaoJiang/ Viejo Jiang→Jiang（没有姓只有名的情况下，不译”老”）
+
+关于称呼
+segundo tío/tercer hermano→tío/hermano
+妈妈一会儿就来接你Mamá te llevará.→Te levaré.（第三人称自称改为第一人称）
+人称vosotros→ustedes（主语、宾语、变位都要改）
+
+脏话：mierda；perra；puta/puto；zorra；maldita sea；joder；pene；culo；
+cabrón, etc;请修改为非脏话

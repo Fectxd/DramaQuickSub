@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+requests
+jinja2
+aiofiles
+pywebview
+pyinstaller

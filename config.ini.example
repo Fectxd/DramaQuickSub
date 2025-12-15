@@ -1,0 +1,3 @@
+[API]
+chatgpt_endpoint = https://chatapi.onechats.ai/v1/chat/completions
+api_key = [YOUR_KEY_HERRRE]
