@@ -11,6 +11,7 @@ a = Analysis(
     datas=[
         ('frontend', 'frontend'),
         ('backend', 'backend'),
+        ('icon.svg', 'frontend'),
     ],
     hiddenimports=[
         'uvicorn.logging',
