@@ -5,6 +5,8 @@
 # DramaQuickSub 字幕编辑器
 
 一个快速高效的影视剧双语字幕编辑工具，支持中英文字幕对齐、智能纠错和批量处理。
+<img width="2126" height="1304" alt="image" src="https://github.com/user-attachments/assets/a053e3f0-0ffc-4169-ba83-3b50bd8f807c" />
+
 
 ## 💡 项目背景
 
